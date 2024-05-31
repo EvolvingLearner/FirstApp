@@ -1,2 +1,4 @@
 *.kt linguist-detectable=false
 *.js linguist-detectable=true
+*.h linguist-language=JavaScript
+*.m linguist-language=JavaScript
